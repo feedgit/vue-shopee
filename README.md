@@ -1,6 +1,9 @@
-# shopee-clone
+# HeroVue
 
-> Shopee Clone
+> HeroVue Game
+
+## New
+Cache using Localforage
 
 ## Build Setup
 
